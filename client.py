@@ -33,23 +33,23 @@ client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 if chatroom == 1:
     client.connect(("127.0.0.1", 1337))
-else if chatroom == 2:
+elif chatroom == 2:
     client.connect(("127.0.0.1", 1337))
-else if chatroom == 3:
+elif chatroom == 3:
     client.connect(("127.0.0.1", 1337))
-else if chatroom == 4:
+elif chatroom == 4:
     client.connect(("127.0.0.1", 1337))
-else if chatroom == 5:
+elif chatroom == 5:
     client.connect(("127.0.0.1", 1337))
-else if chatroom == 6:
+elif chatroom == 6:
     client.connect(("127.0.0.1", 1337))
-else if chatroom == 7:
+elif chatroom == 7:
     client.connect(("127.0.0.1", 1337))
-else if chatroom == 8:
+elif chatroom == 8:
     client.connect(("127.0.0.1", 1337))
-else if chatroom == 9:
+elif chatroom == 9:
     client.connect(("127.0.0.1", 1337))
-else if chatroom == 10:
+elif chatroom == 10:
     client.connect(("127.0.0.1", 1337))
 
 print(f"""------------------------------------------------------------------
